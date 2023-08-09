@@ -3,7 +3,7 @@ mod test;
 
 /// Get a list of prim_factors of `n`
 /// Each element does look like this:
-/// ```no_run
+/// ```ignore
 /// let (factor, count) = element;
 /// ```
 /// so `factor ^ count`
